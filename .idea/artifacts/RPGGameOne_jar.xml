@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="RPGGameOne:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/RPGGameOne_jar</output-path>
+    <root id="root">
+      <element id="archive" name="RPGGameOne.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/../留学法国/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="RPGGameOne" />
+      </element>
+    </root>
+  </artifact>
+</component>

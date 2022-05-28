@@ -1,0 +1,6 @@
+level,  name  ,blood,physical defense,magic defense,attack,group attack probability,   drop   ,probability,money
+1    ,  野猪  , 200 ,    0           ,       0     ,   66 ,       0                ,   人参   ,    0.5    , 50
+2    ,蘑菇僵尸, 300 ,    5           ,       0     ,   88 ,       0                ,   灵芝   ,    0.5    , 100
+3    ,  雪怪  , 600 ,    10          ,       5     ,  123 ,       0.3              ,白云熊胆丸,    0.4    , 500
+4    ,  幽灵  , 300 ,    5           ,      10     ,   99 ,       0.2              , 冰山雪莲 ,    0.6    , 300
+5    , 蝙蝠王 , 900 ,    15          ,      10     ,  234 ,       0.1              ,  金元散  ,    0.3    , 800
